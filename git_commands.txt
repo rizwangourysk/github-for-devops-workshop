@@ -1,0 +1,7 @@
+git init
+git status
+git add .
+git commit -m "ac"
+git rm <filename>
+git rm --cachad <filenam>
+git restore <filename>
