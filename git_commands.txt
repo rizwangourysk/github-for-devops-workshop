@@ -9,4 +9,4 @@ git restore <filename>
  git remote add origin https://github.com/rizwangourysk/github-for-devops-workshop.git  ls
  git remote -v
  git push origin master
-  
+  when access denined so use it >git remote origin https://<personal acesses token>@github.com/rizwangourysk/github-for-devops-workshop.git 
