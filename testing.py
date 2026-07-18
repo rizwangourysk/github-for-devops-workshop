@@ -1,6 +1,10 @@
+"""Testing module."""
+
+
 def hello():
-    """This function prints "Hello, World!" to the console.
-    """
+    """Return a greeting message."""
     return "Hello, World!"
 
-hello()
+
+if __name__ == "__main__":
+    print(hello())

@@ -1,8 +1,6 @@
-from tkinter.filedialog import test
+def hello():
+    """Return a greeting."""
+    return "Hello, World!"
 
 
-def my_function():
-    a = 5
-     return a
-
-my_function()
+print(hello())
