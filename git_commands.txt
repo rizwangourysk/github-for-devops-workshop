@@ -5,3 +5,8 @@ git commit -m "ac"
 git rm <filename>
 git rm --cachad <filenam>
 git restore <filename>
+ git status
+ git remote add origin https://github.com/rizwangourysk/github-for-devops-workshop.git  ls
+ git remote -v
+ git push origin master
+  
